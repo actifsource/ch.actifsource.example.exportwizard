@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="5.6.0" guid="56cdb65c-0c6e-11eb-97d3-358924d4b6e9">
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="56cdb65d-0c6e-11eb-97d3-358924d4b6e9" type="resource" guid="06515ef5-f733-11ea-a650-0fd96a106d83" />
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="56cdb65e-0c6e-11eb-97d3-358924d4b6e9" type="literal">Test-Generic-Template-Wizard</object>
+  </predicate>
+  <predicate guid="33852d70-f733-11ea-a650-0fd96a106d83">
+    <object statement-guid="56cdb65f-0c6e-11eb-97d3-358924d4b6e9" type="resource" guid="6e152fdc-0c6e-11eb-97d3-358924d4b6e9" />
+  </predicate>
+  <predicate guid="d94ab2ae-f735-11ea-a650-0fd96a106d83">
+    <object statement-guid="56cdb660-0c6e-11eb-97d3-358924d4b6e9" type="literal">1.0.0</object>
+  </predicate>
+  <predicate guid="d94ab2af-f735-11ea-a650-0fd96a106d83">
+    <object statement-guid="56cdb661-0c6e-11eb-97d3-358924d4b6e9" type="literal">Actifsource AG</object>
+  </predicate>
+  <predicate guid="d94ab2b1-f735-11ea-a650-0fd96a106d83">
+    <object statement-guid="56cdb662-0c6e-11eb-97d3-358924d4b6e9" type="literal">Export a simple test build config.</object>
+  </predicate>
+  <predicate guid="d94ab2b2-f735-11ea-a650-0fd96a106d83">
+    <object statement-guid="56cdb663-0c6e-11eb-97d3-358924d4b6e9" type="literal">Export TestBuildConfig </object>
+  </predicate>
+</resource>
+

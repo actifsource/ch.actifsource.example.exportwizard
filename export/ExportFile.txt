@@ -1,0 +1,5 @@
+Test-Generic-Template-Wizard
+- Actifsource AG
+- Export a simple test build config.
+
+// Actifsource ID=[6565faff-0c6e-11eb-97d3-358924d4b6e9,a6d1b8c9-cedd-11de-80c2-87ac3b08f930,Hash]
